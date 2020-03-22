@@ -29,10 +29,13 @@ El primer modo fue el resultado del inicio de las experimentaciones con la cáma
 
 El pixelado de la cara se realizó para poder experimentar con la detección de la cara mostrada en clase pero dándole un toque personal. 
 
+## Funcionamiento
+El gif no muestra el verdadero rendimiento de la aplicación. 
+![](Practica6Pix.gif)
 
 ## Referencias
 
-Audio del primer modo:
+Audio del primer modo:  
 http://www.xn--himnoespaa-19a.es/
 
 Conversor de video a gif  
@@ -41,5 +44,5 @@ https://hnet.com/video-to-gif/
 Grabación del programa  
 https://obsproject.com/
 
-Github de clase con los ejemplos en los que se basó la detección de caras:
+Github de clase con los ejemplos en los que se basó la detección de caras:  
 https://github.com/otsedom/CIU/tree/master/P6
