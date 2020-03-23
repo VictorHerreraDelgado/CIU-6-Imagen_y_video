@@ -25,7 +25,7 @@ El programa inicia mostrando la cámara sin ninguna modificación, poniendo en p
 - P : modo en el que detecta cada cara en pantalla y las pixela.
 
 ## Decisiones
-El primer modo fue el resultado del inicio de las experimentaciones con la cámara normal, siendo más bien un añadido.
+El primer modo fue el resultado del inicio de las experimentaciones con la cámara normal, siendo más bien un añadido que únicamente tiene como objetivo crear un filtro simple con temática de un país.
 
 El pixelado de la cara se realizó para poder experimentar con la detección de la cara mostrada en clase pero dándole un toque personal. 
 
